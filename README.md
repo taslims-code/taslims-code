@@ -26,6 +26,12 @@ I'm Taslim, a passionate and enthusiastic learner on a journey through the world
 
 <br>
 
+<a href="[[https://github.com/taslims-code/craftybay](https://github.com/muj-i/snap_share_t3)](https://github.com/muj-i/snap_share_t3)">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=taslims-code&repo=craftybay&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
 <!-- <a href="https://github.com/taslims-code/ng-limeade">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=taslims-code&repo=ng-limeade&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
